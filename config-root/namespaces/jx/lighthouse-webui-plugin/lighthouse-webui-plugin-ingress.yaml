@@ -19,7 +19,7 @@ metadata:
   namespace: jx
 spec:
   rules:
-    - host: lighthouse-jx.jx-dashboard.com
+    - host: lighthouse-jx.192.168.56.2
       http:
         paths:
           - pathType: ImplementationSpecific

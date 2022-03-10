@@ -45,7 +45,7 @@ data:
         repos:
         - kshiris-BRONGA/jx3-kubernetes
         - kshiris-BRONGA/jx3-golang-demo
-      target_url: http://lighthouse-jx.jx-dashboard.com/merge/status
+      target_url: http://lighthouse-jx.192.168.56.2/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
