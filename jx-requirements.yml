@@ -22,7 +22,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: jx-dashboard.com
+    domain: 192.168.56.2
     kind: ingress
     namespaceSubDomain: -jx.
     tls:
