@@ -38,7 +38,7 @@ jxRequirements:
   - key: staging
   - key: production
   ingress:
-    domain: 192.168.56.2
+    domain: jx-dashboard.com
     kind: ingress
     namespaceSubDomain: -tekton-pipelines.
     tls:

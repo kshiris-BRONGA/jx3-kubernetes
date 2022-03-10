@@ -40,7 +40,7 @@ jxRequirements:
   ingress:
     domain: jx-dashboard.com
     kind: ingress
-    namespaceSubDomain: -kuberhealthy.
+    namespaceSubDomain: -nginx.
     tls:
       email: ""
       enabled: false
